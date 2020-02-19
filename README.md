@@ -1,2 +1,4 @@
-# almqa
-中国资产负债管理量化评估资产端模型 - A CBIRC‘s ALM-QA toolkit for modeling assets 
+# almqa - under heavy development
+# 中国资产负债管理量化评估资产端模型
+---
+规则依据：《保险资产负债管理监管规则第4号：人身保险公司资产负债管理量化评估规则》
